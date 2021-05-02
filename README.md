@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Landon! 👋
 
-<!--
-**FrostyZz/FrostyZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Landon, a self-taught developer from the United States.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on different features for [Baritone] (https://github.com/cabaletta/baritone), [MC@H] (https://minecraftathome.com/), and other miscellaneous things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+*NOTE: These are the languages i have most public projects in.*
+
+<a href="https://github.com/FrostyZz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frostyzz&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=prs,issues" alt="Frosty's GitHub Stats" />
+</a>
+
+<a href="https://github.com/FrostyZz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostyzz&layout=compact&theme=radical" />
+</a>
+
+<br>
+<br>
+
