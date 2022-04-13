@@ -2,7 +2,7 @@
 
 Hi, I'm Landon, a self-taught developer from the United States.
 
-- 🔭 I’m currently working on different features for [Baritone](https://github.com/cabaletta/baritone#readme), [MC@H](https://minecraftathome.com/), and other miscellaneous things.
+- 🔭 I have worked on different features for [Baritone](https://github.com/cabaletta/baritone#readme), [MC@H](https://minecraftathome.com/), and other miscellaneous things.
 
 **Languages and Tools:**  
 
